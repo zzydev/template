@@ -1,0 +1,7 @@
+[template]
+exclude = [
+  "cliff.toml",       
+  "README.md",       
+  "LICENSE"           
+]
+
